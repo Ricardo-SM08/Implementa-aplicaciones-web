@@ -80,70 +80,57 @@
         *   Tipos: Documentales (MongoDB, Couchbase), Clave-Valor (Redis), Columnas anchas (Cassandra), Grafos.
         *   Ventajas y casos de uso.
 
-4.  **Frameworks de Backend Populares**
-    *   **Express.js (Node.js):** Rutas, middleware, manejo de errores.
-    *   **Django/Flask (Python):** Modelos, vistas, controladores, ORM, sistema de administración.
-    *   **Laravel/Symfony (PHP):** MVC, Artisan, Eloquent/Doctrine.
-    *   **Ruby on Rails (Ruby):** Convención sobre configuración, generadores.
+4.  **Frameworks y Librerías Backend Populares**
+    *   **Node.js:** Express.js, NestJS.
+    *   **Python:** Django REST Framework, FastAPI.
+    *   **PHP:** Laravel.
+    *   **Ruby:** Ruby on Rails.
+    *   **Java:** Spring Boot.
 
-**Desarrollo Full Stack**
+**Despliegue y Mantenimiento**
 
-1.  **Integración Frontend y Backend**
-    *   Comunicación entre cliente y servidor.
-    *   Proxy en desarrollo.
-    *   Despliegue de aplicaciones full stack.
+1.  **Conceptos de Despliegue**
+    *   Servidores web (Apache, Nginx).
+    *   Virtualización y contenedores (Docker).
+    *   Orquestación de contenedores (Kubernetes).
+    *   CI/CD (Integración Continua/Despliegue Continuo).
 
-2.  **Autenticación y Autorización Avanzadas**
-    *   Estrategias con JWT y sesiones.
-    *   Implementación de roles y permisos.
+2.  **Proveedores de Cloud**
+    *   AWS, Google Cloud Platform, Azure, Heroku, Vercel, Netlify.
+    *   Servicios comunes (cómputo, base de datos, almacenamiento, redes).
 
-3.  **Manejo de Archivos y Almacenamiento**
-    *   Subida de archivos.
-    *   Almacenamiento en la nube (AWS S3, Google Cloud Storage).
+3.  **Monitoreo y Logging**
+    *   Herramientas de monitoreo (Prometheus, Grafana).
+    *   Sistemas de logging (ELK stack).
 
-4.  **WebSockets**
-    *   Comunicación en tiempo real.
-    *   Casos de uso (chats, notificaciones).
-    *   Librerías (Socket.IO).
+4.  **Seguridad en Aplicaciones Web**
+    *   Amenazas comunes (XSS, CSRF, inyección SQL, OWASP Top 10).
+    *   Mejores prácticas de seguridad.
+    *   HTTPS y certificados SSL/TLS.
 
-**Despliegue y Operaciones (DevOps Básico)**
+**Herramientas y Metodologías Adicionales**
 
-1.  **Control de Versiones con Git y GitHub/GitLab**
-    *   Flujo de trabajo (ramas, commits, merges, pull requests).
-    *   Resolución de conflictos.
+1.  **Control de Versiones con Git y GitHub/GitLab/Bitbucket**
+    *   Conceptos básicos (repositorios, commits, branches, merges, pull requests).
+    *   Flujos de trabajo (Gitflow, Trunk-based development).
 
-2.  **Despliegue de Aplicaciones**
-    *   Conceptos de servidores (VPS, dedicados).
-    *   Proveedores de nube (Heroku, Netlify, Vercel, AWS EC2/Amplify, Google Cloud Run/App Engine).
-    *   Contenedores con Docker (Dockerfiles, imágenes, contenedores).
-    *   CI/CD (Integración y Despliegue Continuos) básico.
+2.  **Metodologías Ágiles**
+    *   Scrum, Kanban.
+    *   Planificación, iteraciones, reuniones.
 
-3.  **Seguridad en Aplicaciones Web**
-    *   Vulnerabilidades comunes (XSS, CSRF, SQL Injection).
-    *   Buenas prácticas de seguridad.
-    *   Protección de APIs.
-
-4.  **Mantenimiento y Monitorización**
-    *   Logs y métricas.
-    *   Actualizaciones y parches.
-
-**Proyectos y Buenas Prácticas**
-
-1.  **Metodologías de Desarrollo Ágil**
-    *   Scrum, Kanban (introducción).
-
-2.  **Pruebas (Testing)**
+3.  **Pruebas en Desarrollo Web**
     *   Tipos de pruebas (unitarias, integración, end-to-end).
-    *   Frameworks de testing (Jest, React Testing Library, Mocha, Cypress).
+    *   Frameworks de pruebas (Jest, React Testing Library, Cypress, Selenium).
 
-3.  **Optimización del Rendimiento Web**
-    *   Velocidad de carga.
-    *   Core Web Vitals.
-    *   Optimización de imágenes y recursos.
+4.  **WebSockets y Comunicación en Tiempo Real**
+    *   Conceptos de WebSockets.
+    *   Librerías (Socket.IO).
+    *   Casos de uso.
 
-4.  **Internacionalización (i18n) y Localización (l10n)**
+**Proyecto Final**
 
-5.  **Proyecto Final**
-    *   Desarrollo de una aplicación web completa desde cero.
+1.  **Planificación y Diseño de un Proyecto**
+2.  **Desarrollo de una Aplicación Web Completa (Full-Stack)**
+3.  **Despliegue y Presentación**
 
-Este índice cubre las áreas clave para un desarrollador web completo. Podrías profundizar en cualquiera de estos puntos según el nivel y duración del curso.
+¡Espero que este índice te sea de gran utilidad para estructurar tu curso!
